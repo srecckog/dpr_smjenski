@@ -1,0 +1,11 @@
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\obj\Debug\dpr_smjenski.csproj.CoreCompileInputs.cache
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\bin\Debug\dpr_smjenski.exe.config
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\bin\Debug\dpr_smjenski.exe
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\bin\Debug\dpr_smjenski.pdb
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\obj\Debug\dpr_smjenski.exe
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\obj\Debug\dpr_smjenski.pdb
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\bin\Debug\dpr_smjenski.exe.manifest
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\bin\Debug\dpr_smjenski.application
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\obj\Debug\dpr_smjenski.exe.manifest
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\obj\Debug\dpr_smjenski.application
+C:\Users\jplaninic\Source\Repos\dpr_smjenski\dpr_smjenski\obj\Debug\dpr_smjenski.csprojAssemblyReference.cache
